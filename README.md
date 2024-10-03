@@ -30,12 +30,12 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 ## Experience (industry)
 
-* [Nomagic](nomagic.ai) - Software Engineering Intern
+* [Nomagic](https://nomagic.ai) - Software Engineering Intern
 * Google - STEP Intern
 
 ## Experience (research)
 
-* Research Assistant | [Make Lab](make.kaist.ac.kr) | [2023.08 - ongoing]
+* Research Assistant | [Make Lab](https://make.kaist.ac.kr) | [2023.08 - ongoing]
 * Undergraduate Intern | [Make Lab](make.kaist.ac.kr) | [2022.09 - 2023.08]
 * Undergraduate Intern | [HCI Tech Lab](hcitech.org) | [2022.01 - 20222.06]
 * Undergraduate Intern | [CDSN Lab](cds.kaist.ac.kr) | [2020.07 - 2021.01]
