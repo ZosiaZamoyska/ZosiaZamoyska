@@ -41,25 +41,25 @@ In my free time, I love to crochet and do puzzles. 🧩
 * Undergraduate Intern | [CDSN Lab](cds.kaist.ac.kr) | [2020.07 - 2021.01]
 
 ## Publications
-* Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing
-| Published in AODR, 2024
-| Authors: Zofia Marciniak, Kongpyung Moon, and Andrea Bianchi (AODR, vol. 150) (paper)[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11791232]
+* __Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing__  
+| AODR, 2024  
+| __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi (AODR, vol. 150) [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11791232)
 
-* 3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials
-| Published in CHI, 2024
-| Authors: Kongpyung (Justin) Moon, Zofia Marciniak, Ryo Suzuki, and Andrea Bianchi (CHI 2024) (paper)[https://dl.acm.org/doi/10.1145/3613904.3642537]
+* __3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials__  
+| CHI, 2024  
+| Kongpyung (Justin) Moon, __Zofia Marciniak__, Ryo Suzuki, and Andrea Bianchi (CHI 2024) [paper](https://dl.acm.org/doi/10.1145/3613904.3642537)
 
-* 3D Printing Slicer for Computational Texture Generation
-| Published in Korea HCI, 2023
-| Authors: Zofia Marciniak, Kongpyung Moon, and Andrea Bianchi (Korea HCI 2023) (paper)[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229626]
+* __3D Printing Slicer for Computational Texture Generation__  
+| Korea HCI, 2023  
+| __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi (Korea HCI 2023) [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229626)
 
-* Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Feedback (Poster)
-| Published in VRST, 2022
-| Authors: Zofia Marciniak, Seo Young Oh, and Sang Ho Yoon (VRST 2022) (paper)[https://dl.acm.org/doi/10.1145/3562939.3565626]
+* __Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Feedback (Poster)__  
+| VRST, 2022  
+| __Zofia Marciniak__, Seo Young Oh, and Sang Ho Yoon (VRST 2022) [paper](https://dl.acm.org/doi/10.1145/3562939.3565626)
 
-* Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts
-| Published in Korea HCI, 2021
-| Authors: Zofia Marciniak, Sumin Han, and Dongman Lee (Korea HCI 2021) (paper)[https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300]
+* __Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts__  
+| Korea HCI, 2021  
+| __Zofia Marciniak__, Sumin Han, and Dongman Lee (Korea HCI 2021) [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
 
 <!--
 **ZosiaZamoyska/ZosiaZamoyska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
