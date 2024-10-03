@@ -43,23 +43,23 @@ In my free time, I love to crochet and do puzzles. 🧩
 ## Publications
 * __Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing__  
 | AODR, 2024  
-| __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi (AODR, vol. 150) [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11791232)
+| __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11791232)
 
 * __3D Printing Locally Activated Visual-Displays Embedded in 3D Objects via Electrically Conductive and Thermochromic Materials__  
 | CHI, 2024  
-| Kongpyung (Justin) Moon, __Zofia Marciniak__, Ryo Suzuki, and Andrea Bianchi (CHI 2024) [paper](https://dl.acm.org/doi/10.1145/3613904.3642537)
+| Kongpyung (Justin) Moon, __Zofia Marciniak__, Ryo Suzuki, and Andrea Bianchi [paper](https://dl.acm.org/doi/10.1145/3613904.3642537)
 
 * __3D Printing Slicer for Computational Texture Generation__  
 | Korea HCI, 2023  
-| __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi (Korea HCI 2023) [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229626)
+| __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229626)
 
 * __Guide Ring: Bidirectional Finger-worn Haptic Actuator for Rich Haptic Feedback (Poster)__  
 | VRST, 2022  
-| __Zofia Marciniak__, Seo Young Oh, and Sang Ho Yoon (VRST 2022) [paper](https://dl.acm.org/doi/10.1145/3562939.3565626)
+| __Zofia Marciniak__, Seo Young Oh, and Sang Ho Yoon [paper](https://dl.acm.org/doi/10.1145/3562939.3565626)
 
 * __Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts__  
 | Korea HCI, 2021  
-| __Zofia Marciniak__, Sumin Han, and Dongman Lee (Korea HCI 2021) [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
+| __Zofia Marciniak__, Sumin Han, and Dongman Lee [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
 
 <!--
 **ZosiaZamoyska/ZosiaZamoyska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
