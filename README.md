@@ -14,7 +14,7 @@ Attending KAIST, I planned to major in Computer Science only, but my passion for
 In my free time, I love to crochet and do puzzles. 🧩
 
 
-👀 To see more of my projects and research (or my crochet pieces) check out my portfolio website: https://zosia-hci.github.io/
+👀 To see more of my projects and research (or my crochet pieces) check out my [portfolio website](https://zosia-hci.github.io/)
 
 📫 To reach me (to talk about anything), e-mail at: zofia.marciniak at kaist.ac.kr
 
