@@ -6,7 +6,7 @@ I research Human-Computer Interaction (HCI) under the guidance of professor Andr
 My interest is specifically in digital fabrication, with previous projects focusing on 3D printing. 💻
 I am interested in exploring opportunities for computational fabrication for crafters, specifically crocheters. 🧶
 
-I received my undergraduate degree in Industrial Design and Computer Science (double major) from KAIST with an excellence in leadership.
+I received my undergraduate degree in Industrial Design and Computer Science (double major) from [KAIST](https://www.kaist.ac.kr) with an excellence in leadership.
 I graduated from number one high school in Poland, [XIV LO im. Stanislawa Staszica](https://staszic.waw.pl/), where I studied in Matex (class with an university-level based mathematics curriculum) profile.
 I have been a passionate programmer since childhood. My favourite (and most familiar programming) language is C++, which I started to participate in competetive programming competitions: Junior Informatics Olympiad in Poland (ranking in top10), and Informatics Olympiad in high school.
 Besides C++, I am also comfortable with python, having used it during my internship at [NoMagic](https://nomagic.ai/), where I implemented an error-handling feature for an Intelligent Robot solutions. 
