@@ -26,7 +26,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 * KAIST, [Industrial Design](http://id.kaist.ac.kr) and [Computer Science](https://cs.kaist.ac.kr) | [2019.09 - 2023.08] Bachelor Degree 
 
-* XIV LO im. Stanislawa Staszica | [2016.09 - 2019.04] High School Degree 
+* [XIV LO im. Stanislawa Staszica](https://staszic.waw.pl) | [2016.09 - 2019.04] High School Degree 
 
 ## Experience (industry)
 
