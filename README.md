@@ -2,7 +2,7 @@
 
 My name is Zofia, although I prefer to be called Zosia (pronounced Zoh-see-ah).
 I am a second year master student at KAIST, majoring in Industrial Design.
-I research Human-Computer Interaction (HCI) under the guidance of professor Andrea Bianchi.
+I research Human-Computer Interaction (HCI) under the guidance of professor [Andrea Bianchi](https://make.kaist.ac.kr/andrea).
 My interest is specifically in digital fabrication, with previous projects focusing on 3D printing. 💻
 I am interested in exploring opportunities for computational fabrication for crafters, specifically crocheters. 🧶
 
