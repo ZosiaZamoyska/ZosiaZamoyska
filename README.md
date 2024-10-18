@@ -32,7 +32,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 ## Experience (industry)
 
 * [Nomagic](https://nomagic.ai) - Software Engineering Intern | [2022.06-2022.09]
-* Google - STEP Intern | [2021.07-2021.09]
+* [Google](https://about.google) - STEP Intern | [2021.07-2021.09]
 
 ## Experience (research)
 
