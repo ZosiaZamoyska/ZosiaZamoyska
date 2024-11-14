@@ -21,7 +21,8 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 🎉 Fun fact: I am an introvert (INFJ), but I love to talk a lot. 
 
-https://github.com/zosiazamoyska/gitanimals
+<a href="https://github.com/devxb/gitanimals">
+</a>
 
 ## Education
 
