@@ -13,11 +13,15 @@ Besides C++, I am also comfortable with python, having used it during my interns
 Attending KAIST, I planned to major in Computer Science only, but my passion for solving real-world problems and helping people has led me to discover possibilities within Industrial Design department. I connect both of my passions for people and technology by researching HCI.
 In my free time, I love to crochet and do puzzles. 🧩
 
+🔭 I’m currently working on digitalization opportunitiesf for crocheters! 
+
 👀 To see more of my projects and research (or my crochet pieces) check out my [portfolio website](https://zosia-hci.github.io/)
 
 📫 To reach me (to talk about anything), e-mail at: zofia.marciniak at kaist.ac.kr
 
 🎉 Fun fact: I am an introvert (INFJ), but I love to talk a lot. 
+
+https://github.com/zosiazamoyska/gitanimals
 
 ## Education
 
@@ -30,7 +34,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 ## Experience (industry)
 
 * [Nomagic](https://nomagic.ai) - Software Engineering Intern | [2022.06-2022.09]
-* [Google](https://about.google) - STEP Intern | [2021.07-2021.09]
+* Google - STEP Intern | [2021.07-2021.09]
 
 ## Experience (research)
 
@@ -59,6 +63,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 * __Understanding the impact of the Weather on Human Mobility via LTE Access Traces in Seoul Districts__  
 | Korea HCI, 2021  
 | __Zofia Marciniak__, Sumin Han, and Dongman Lee [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10530300)
+
 
 <!--
 **ZosiaZamoyska/ZosiaZamoyska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
