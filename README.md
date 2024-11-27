@@ -13,7 +13,7 @@ Besides C++, I am also comfortable with python, having used it during my interns
 Attending KAIST, I planned to major in Computer Science only, but my passion for solving real-world problems and helping people has led me to discover possibilities within Industrial Design department. I connect both of my passions for people and technology by researching HCI.
 In my free time, I love to crochet and do puzzles. 🧩
 
-🔭 I’m currently working on digitalization opportunitiesf for crocheters! 
+🔭 I’m currently working on digitalization opportunities for crocheters! 
 
 👀 To see more of my projects and research (or my crochet pieces) check out my [portfolio website](https://zosia-hci.github.io/)
 
