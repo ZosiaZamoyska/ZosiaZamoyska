@@ -31,7 +31,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 ## Education
 
-* KAIST, [Industrial Design](http://id.kaist.ac.kr) | [2023.08 - ongoing] Master Student 
+* KAIST, [Industrial Design](http://id.kaist.ac.kr) | [2023.08 - 2025.08] Master Student 
 
 * KAIST, [Industrial Design](http://id.kaist.ac.kr) and [Computer Science](https://cs.kaist.ac.kr) | [2019.09 - 2023.08] Bachelor Degree 
 
