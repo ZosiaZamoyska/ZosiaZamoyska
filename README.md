@@ -50,7 +50,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 * Undergraduate Intern | [CDSN Lab](https://cds.kaist.ac.kr) | [2020.07 - 2021.01]
 
 ## Publications
-* __StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns with Stitch Tracking and Process Sharing__
+* __StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns with Stitch Tracking and Process Sharing__    
 | UIST, 2025
 | __Zofia Marciniak__, Punn Lertjaturaphat, and Andrea Bianchi
 
