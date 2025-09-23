@@ -1,8 +1,7 @@
 ## Hey there 👐
 
 My name is Zofia, although I prefer to be called Zosia (pronounced Zoh-see-ah).
-I am a second year master student at KAIST, majoring in Industrial Design.
-I research Human-Computer Interaction (HCI) under the guidance of professor [Andrea Bianchi](https://make.kaist.ac.kr/andrea).
+I am an Engineer at Samsung Electronics (DX division). I was a student at KAIST, majoring in Industrial Design, where I researched Human-Computer Interaction (HCI) under the guidance of professor [Andrea Bianchi](https://make.kaist.ac.kr/andrea).
 My interest is specifically in digital fabrication, with previous projects focusing on 3D printing. 💻
 I am interested in exploring opportunities for computational fabrication for crafters and crafting technology, with focus on crochet. 🧶
 
