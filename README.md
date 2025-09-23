@@ -51,7 +51,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 ## Publications
 * __StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns with Stitch Tracking and Process Sharing__    
-| UIST, 2025
+| UIST, 2025  
 | __Zofia Marciniak__, Punn Lertjaturaphat, and Andrea Bianchi
 
 * __Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing__  
