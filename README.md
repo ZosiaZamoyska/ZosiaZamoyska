@@ -38,6 +38,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 ## Experience (industry)
 
+* [Samsung Electronics](https://samsung.com) - Engineer | [2025.09-ongoing]
 * [Nomagic](https://nomagic.ai) - Software Engineering Intern | [2022.06-2022.09]
 * Google - STEP Intern | [2021.07-2021.09]
 
@@ -49,6 +50,10 @@ In my free time, I love to crochet and do puzzles. 🧩
 * Undergraduate Intern | [CDSN Lab](https://cds.kaist.ac.kr) | [2020.07 - 2021.01]
 
 ## Publications
+* __StitchFlow: Enabling In-Situ Creative Explorations of Crochet Patterns with Stitch Tracking and Process Sharing__
+| UIST, 2025
+| __Zofia Marciniak__, Punn Lertjaturaphat, and Andrea Bianchi
+
 * __Decoupling Geometry from Surface Finish by Parameterizing Texture Directly in G-code for Fused Deposition Modeling (FDM) Printing__  
 | AODR, 2024  
 | __Zofia Marciniak__, Kongpyung Moon, and Andrea Bianchi [paper](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11791232)
