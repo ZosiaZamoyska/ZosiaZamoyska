@@ -16,7 +16,7 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 👀 To see more of my projects and research (or my crochet pieces) check out my [portfolio website](https://zosia-hci.github.io/)
 
-📫 To reach me (to talk about anything), e-mail at: zofia.marciniak at kaist.ac.kr
+📫 To reach me (to talk about anything), e-mail at: zofia.marciniak at inf.ethz.ch
 
 🎉 Fun fact: I am an introvert (INFJ), but I love to talk a lot. 
 
