@@ -38,13 +38,13 @@ In my free time, I love to crochet and do puzzles. 🧩
 
 ## Experience (industry)
 
-* [Samsung Electronics](https://samsung.com) - Engineer | [2025.09-ongoing]
+* [Samsung Electronics](https://samsung.com) - Engineer | [2025.09-2026.07]
 * [Nomagic](https://nomagic.ai) - Software Engineering Intern | [2022.06-2022.09]
 * Google - STEP Intern | [2021.07-2021.09]
 
 ## Experience (research)
 
-* Research Assistant | [Make Lab](https://make.kaist.ac.kr) | [2023.08 - ongoing]
+* Research Assistant | [Make Lab](https://make.kaist.ac.kr) | [2023.08 - 2025.08]
 * Undergraduate Intern | [Make Lab](https://make.kaist.ac.kr) | [2022.09 - 2023.08]
 * Undergraduate Intern | [HCI Tech Lab](https://hcitech.org) | [2022.01 - 20222.06]
 * Undergraduate Intern | [CDSN Lab](https://cds.kaist.ac.kr) | [2020.07 - 2021.01]
